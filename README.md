@@ -1,7 +1,5 @@
 # Gmail Plus‑Tag Varyant Üretici / Gmail Plus‑Tag Variant Generator
 
-> Tek dosyada hem Türkçe hem İngilizce açıklama, kullanım örnekleri, uyarılar, indirme linki ve örnek görseller içerir.
-
 ---
 
 ## 📌 Başlık / Short Title
@@ -90,6 +88,16 @@ Warnings
 
 
 📥 İndirme Linki / Download
+
+---
+
+https://mega.nz/file/4ZMVHTjb#n_q6C-K-MsCsEgoZiv6YW42PpfRLBgJv00lpRpVurE0
+
+VT LINK
+
+---
+
+https://www.virustotal.com/gui/file/27eda0a376c9ad1cc87d59ef662c22a01cffce0d8105169023417813e04d6ae0?nocache=1
 
 
 
