@@ -37,6 +37,8 @@ Geçersiz e‑posta adreslerini kontrol eder
 
 Python 3 uyumlu
 
+---
+
 Tag generation modes: random, timestamp, sequential
 
 Configurable random tag length
