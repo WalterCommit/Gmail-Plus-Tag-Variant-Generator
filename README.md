@@ -72,9 +72,14 @@ Warnings
     Plus‑tags can affect spam filtering; check provider rules before use.
 
 📷 Örnek Görseller/Screenshots
+<img width="595" height="578" alt="1" src="https://github.com/user-attachments/assets/95c1ca2a-428b-4030-87dd-2990ce41c264" />
 
+<img width="579" height="549" alt="2" src="https://github.com/user-attachments/assets/7340afcf-889f-4149-9eed-5edae0488d67" />
 
-    Görseller klasörde screenshots/ içinde tutulabilir ve README’de böyle gösterilebilir.
+<img width="480" height="567" alt="3" src="https://github.com/user-attachments/assets/4e7c99a2-a311-4b1a-995b-aba3f612dfde" />
+
+<img width="321" height="251" alt="4" src="https://github.com/user-attachments/assets/c8387efb-e821-478c-9c02-9fd6aa416d60" />
+
 
 📥 İndirme Linki / Download
 
