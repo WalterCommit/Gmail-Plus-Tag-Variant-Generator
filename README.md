@@ -25,18 +25,28 @@ Gmail Plus‑Tag Variant Generator creates unique email variants (example+tag@gm
 Features
 
 ### Özellikler
-`random`, `timestamp`, `sequential` modlarında tag üretimi  
+`random`, `timestamp`, `sequential` modlarında tag üretimi 
+
 Rastgele tag uzunluğunu ayarlama  
+
 Sıralı varyantlar için başlangıç değeri belirleme  
+
 CLI üzerinden hızlı ve kolay kullanım  
+
 Geçersiz e‑posta adreslerini kontrol eder  
+
 Python 3 uyumlu
 
 Tag generation modes: random, timestamp, sequential
+
 Configurable random tag length
+
 Sequential numbering with custom start
+
 Fast CLI usage
+
 Validates email format
+
 Python 3 compatible
 
 
